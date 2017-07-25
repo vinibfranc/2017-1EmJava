@@ -1,0 +1,4 @@
+commit_dialog_history_messages=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<messages>\r\n<message>Adi\u00E7\u00E3o de coment\u00E1rios e limpeza do c\u00F3digo</message>\r\n<message>Adi\u00E7\u00E3o de cronometro + coment\u00E1rios</message>\r\n<message>Adi\u00E7\u00E3o do cron\u00F4metro + coment\u00E1rios</message>\r\n<message>Aprimoramento de interface + extra\u00E7\u00E3o de m\u00E9todos + coment\u00E1rios</message>\r\n<message>\# WARNING\: head commit changed in the meantime&\#x0A;&\#x0A;Limpeza do c\u00F3digo, adi\u00E7\u00E3o de coment\u00E1rios e detalhes de interface</message>\r\n<message>Limpeza do c\u00F3digo, adi\u00E7\u00E3o de coment\u00E1rios e detalhes de interface</message>\r\n</messages>
+eclipse.preferences.version=1
+resourcehistory_graph_split=500,500
+resourcehistory_rev_split=700,300

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;usuarios.Usuarios.java&apos; to &apos;Usuario.java&apos;&#x0D;&#x0A;- Original project: &apos;SimuladorSpoolSO&apos;&#x0D;&#x0A;- Original element: &apos;usuarios.Usuarios.java&apos;&#x0D;&#x0A;- Renamed element: &apos;usuarios.Usuario.java&apos;" description="Rename compilation unit &apos;Usuarios.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;usuarios{Usuarios.java" name="Usuario.java" references="false" stamp="1497894109720" version="1.0"/>
+</session>
